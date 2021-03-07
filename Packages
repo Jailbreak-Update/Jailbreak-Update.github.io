@@ -10,7 +10,7 @@ Author: XsF1re
 Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
 Name: FlyJB Alfa
 Size: 641832
-MD5sum: ecf0ad62bd3567111bac487742a565e3
+MD5Sum: ecf0ad62bd3567111bac487742a565e3
 SHA1: 699a8a752a9daa3b465b2184ee7b0cb0713e6e05
 SHA256: 9587ce518e656a2f3f20a6dcced966122e6bf5fd78f7687133957932b227b737
 
@@ -27,7 +27,7 @@ Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
 Version: 0.2.5.6
 Installed-Size: 1268
 Size: 630460
-MD5sum: 93a019593c0b07e5685cc2d983271bcb
+MD5Sum: 93a019593c0b07e5685cc2d983271bcb
 SHA1: 8a97d85031d0ec89c8e22fae776bf61b3c7b96a1
 SHA256: 24822b956bc305d58e1c8c748b75e58e7d0850f3dc1e8733fb2932a544200b79
 
@@ -43,7 +43,7 @@ Maintainer: Jeffrey Chan
 Author: Jeffrey Chan
 Section: Tweaks
 Size: 230548
-MD5sum: dbe7838ac21e34237b7c9ae71d9b07bd
+MD5Sum: dbe7838ac21e34237b7c9ae71d9b07bd
 SHA1: e28755ff5c02d984b113a1f7d10c216d4c396ea6
 SHA256: efc975ac7a3af15b1d45b928184d85992733f67a2fe722d75695c245d9200389
 
@@ -58,7 +58,7 @@ Version: 1.0.2
 Name: jbsetup
 Architecture: iphoneos-arm
 Size: 112058
-MD5sum: 4e6fe56809772ee59370138dbebc883f
+MD5Sum: 4e6fe56809772ee59370138dbebc883f
 SHA1: cb997e316fdb20bde30f4ec973080ac55a014139
 SHA256: a07823fefe4acbb12703ad26c493f7eb2f7f17b19f08e822e4854526ad44ad87
 
@@ -75,7 +75,7 @@ Name: TSSSaver 2
 Architecture: iphoneos-arm
 Icon: file://Applications/TSSSaver.app/AppIcon40x40@2x.png
 Size: 423588
-MD5sum: f9c74c0f9bd5472e7359aeca62e1e923
+MD5Sum: f9c74c0f9bd5472e7359aeca62e1e923
 SHA1: 5d324b4a1e016597cb3e696b499745d31fd344d5
 SHA256: 9df708922d2a96b5283143e22b42e505663a6eaa5cabeacd6d21416cb4a80c66
 
@@ -91,7 +91,7 @@ Version: 0.0.3
 Installed-Size: 544
 Filename: deb/com.Jailbreak-Update.kernbypass_0.0.3_iphoneos-arm.deb
 Size: 15114
-MD5sum: d8f11bd2b2e85b0034318b48b21f7d79
+MD5Sum: d8f11bd2b2e85b0034318b48b21f7d79
 SHA1: 1f0b964c4ed4ff15ceb3d12e974528695090c993
 SHA256: 2148d1b3f39a77ea65adbebc4aaa970241a165aae8cf3187232c3f028d9a25f0
 
@@ -108,7 +108,7 @@ Version: 1.9.13~rc6
 Installed-Size: 5060
 Filename: deb/com.Jailbreak-Update.activator_1.9.13~rc6_iphoneos-arm.deb
 Size: 1511938
-MD5sum: 8D7083E62527D6CCC8B3F6D3B2E6E94A
+MD5Sum: 8D7083E62527D6CCC8B3F6D3B2E6E94A
 SHA1: B7F222B68D29032B17E7E1607D6F65C129EB50C5
 SHA256: E99D463413057730F7D7F5B398A5917EE5F61D7DDFB392671022C54D6AF88FCE
 
