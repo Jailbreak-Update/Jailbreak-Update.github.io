@@ -94,3 +94,21 @@ Size: 15114
 MD5sum: d8f11bd2b2e85b0034318b48b21f7d79
 SHA1: 1f0b964c4ed4ff15ceb3d12e974528695090c993
 SHA256: 2148d1b3f39a77ea65adbebc4aaa970241a165aae8cf3187232c3f028d9a25f0
+
+Package: com.Jailbreak-Update.activator
+Name: Activator
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~rc3), com.rpetrich.rocketbootstrap (>= 1.0.9)
+Architecture: iphoneos-arm
+Description: Centralized gestures, button and shortcut management for iOS
+Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Sponsor: Jailbreak-update <http://jailbreak-update.github.io>
+Section: Tweaks
+Version: 1.9.13~rc6
+Installed-Size: 5060
+Filename: deb/com.Jailbreak-Update.activator_1.9.13~rc6_iphoneos-arm.deb
+Size: 1511938
+MD5sum: 8D7083E62527D6CCC8B3F6D3B2E6E94A
+SHA1: B7F222B68D29032B17E7E1607D6F65C129EB50C5
+SHA256: E99D463413057730F7D7F5B398A5917EE5F61D7DDFB392671022C54D6AF88FCE
+
