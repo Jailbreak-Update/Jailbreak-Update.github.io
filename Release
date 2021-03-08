@@ -1,12 +1,12 @@
 Origin: Jailbreak-Update
 
-Label: Demo
+Label: Jailbreak-Update
 
 Suite: stable
 
-Version: 0.3.1
+Version: 1.0
 
-Codename: repo
+Codename: ios
 
 Architectures: iphoneos-arm
 
