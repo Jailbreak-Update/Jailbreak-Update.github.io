@@ -304,3 +304,20 @@ Size: 19342018
 MD5Sum: 2231abecc097c25878a59407efc3bd58
 SHA1: 4953e37cd9ff96cbc2771b118ae354dc382b30fa
 SHA256: 57c891d5ca3860476ae149959a82b4c51d27d882ee9de83e05b4cfeeec3cb788
+
+Package: com.Jailbreak-Update.shake2toggle
+Name: Shake3Toggle
+Depends: mobilesubstrate, applist
+Architecture: iphoneos-arm
+Description: Control your device with shakes.
+Maintainer: Jailbreak-Update <jailbreak14update@gmail.com>
+Author: Jailbreak-Update <jailbreak14update@gmail.com>
+Depiction: https://jailbreak-update.github.io/img/wallpapers/com.Jailbreak-Update.shake2toggle.html
+Icon: https://jailbreak-update.github.io/img/wallpapers/2.png
+Section: Tweaks
+Version: 1.0
+Filename: deb\com.Jailbreak-Update.shake2toggle_1.0_iphoneos-arm.deb
+Size: 117150
+MD5Sum: 6e17fd41feaa5222ae0423b105171a51
+SHA1: 05dd83c0843519a85d22c890b274c3fb79f93ec1
+SHA256: a61d6864c570ac37f9f94048e1ee6d73a6904fac49e3245c7619923ccff1e395
