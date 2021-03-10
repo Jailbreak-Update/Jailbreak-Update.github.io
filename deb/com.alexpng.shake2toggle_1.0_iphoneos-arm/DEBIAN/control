@@ -1,14 +1,11 @@
 Package: com.Jailbreak-Update.shake2toggle
-Name: Shake2Toggle
+Name: Shake3Toggle
 Depends: mobilesubstrate, applist
 Architecture: iphoneos-arm
 Description: Control your device with shakes.
-Depiction: https://alexpng.github.io/depictions/com.alexpng.shake2toggle/
-SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.shake2toggle/shake2toggle.json
-Icon: https://alexpng.github.io/depictions/com.alexpng.shake2toggle/DebIcon.png
-Maintainer: alex_png <alex.png.cc@gmail.com>
-Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://jailbreak-update.github.io/img/wallpapers/com.Jailbreak-Update.shake2toggle.html
+Icon: https://jailbreak-update.github.io/img/wallpapers/2.png
+Maintainer: Jailbreak-Update <jailbreak14update@gmail.com>
+Author: Jailbreak-Update <jailbreak14update@gmail.com>
 Section: Tweaks
 Version: 1.0
-Installed-Size: 572
-Size: 117142
